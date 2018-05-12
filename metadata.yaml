@@ -1,0 +1,30 @@
+_repo: Honkakannel-1Kielten-viritys_26773
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Paavo-Kallio, Esa
+    alias: Paavo-Kallio, Esaias
+    birthdate: 1858
+    deathdate: 1936
+    gutenberg_agent_id: '32230'
+    url: http://www.gutenberg.org/2009/agents/32230
+    wikipedia: http://fi.wikipedia.org/wiki/Esa_Paavo-Kallio
+description: ''
+gutenberg_issued: '2008-10-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26773'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PH'
+- !lcsh 'Finnish poetry'
+title: 'Honkakannel 1
+
+  Kielten viritys'
+url: http://www.gutenberg.org/ebooks/26773
